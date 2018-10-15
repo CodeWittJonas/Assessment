@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="15a71a81-b572-423d-bd35-4c6e5ac5ea6e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Informatik/E4/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Informatik/E4/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Informatik/E4/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Informatik/E4/task_3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,17 +14,17 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Studium$task_2.coverage" NAME="task_2 Coverage Results" MODIFIED="1538662574070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E3" />
     <SUITE FILE_PATH="coverage/Studium$Unittests_in_task_2_test_py.coverage" NAME="Unittests in task_2_test.py Coverage Results" MODIFIED="1539154765465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E4" />
-    <SUITE FILE_PATH="coverage/Studium$task_1__1_.coverage" NAME="task_1 (1) Coverage Results" MODIFIED="1539250956936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E4" />
+    <SUITE FILE_PATH="coverage/Studium$task_1__1_.coverage" NAME="task_1 (1) Coverage Results" MODIFIED="1539605108665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E4" />
     <SUITE FILE_PATH="coverage/Studium$task_1.coverage" NAME="task_1 Coverage Results" MODIFIED="1539112657544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E3" />
     <SUITE FILE_PATH="coverage/Studium$task_4.coverage" NAME="task_4 Coverage Results" MODIFIED="1539113054371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E3" />
     <SUITE FILE_PATH="coverage/Studium$task_4__1_.coverage" NAME="task_4 (1) Coverage Results" MODIFIED="1539375105303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E4" />
-    <SUITE FILE_PATH="coverage/Studium$task_2__1_.coverage" NAME="task_2 (1) Coverage Results" MODIFIED="1539154878727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E4" />
+    <SUITE FILE_PATH="coverage/Studium$task_2__1_.coverage" NAME="task_2 (1) Coverage Results" MODIFIED="1539605130040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E4" />
     <SUITE FILE_PATH="coverage/Studium$Unittests_in_task_1_test_py.coverage" NAME="Unittests in task_1_test.py Coverage Results" MODIFIED="1539152881253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E4" />
     <SUITE FILE_PATH="coverage/Studium$task_2_b__1_.coverage" NAME="task_2_b (1) Coverage Results" MODIFIED="1538557752078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E2" />
     <SUITE FILE_PATH="coverage/Studium$task_2_b.coverage" NAME="task_2_b Coverage Results" MODIFIED="1538557734288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Studium$quiz.coverage" NAME="quiz Coverage Results" MODIFIED="1538388885124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InformatikUndWirtschaft" />
     <SUITE FILE_PATH="coverage/Studium$task_2_a.coverage" NAME="task_2_a Coverage Results" MODIFIED="1538388978556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Studium$task_3.coverage" NAME="task_3 Coverage Results" MODIFIED="1538662442231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E3" />
+    <SUITE FILE_PATH="coverage/Studium$task_3.coverage" NAME="task_3 Coverage Results" MODIFIED="1539605147084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E4" />
     <SUITE FILE_PATH="coverage/Studium$hello_pycharm.coverage" NAME="hello_pycharm Coverage Results" MODIFIED="1537349912781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
@@ -45,37 +45,41 @@
     <session id="990140003">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
+          <entry key="project.closed" value="20" />
           <entry key="project.open.time.10" value="5" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="28" />
+          <entry key="py" value="36" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="28" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="1606" />
-          <entry key="py" value="4428" />
+          <entry key="py" value="4746" />
+          <entry key="txt" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="6034" />
+          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="Python" value="6352" />
         </counts>
       </usages-collector>
     </session>
@@ -86,6 +90,18 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Informatik/E4/task_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-340">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <folding>
+                <marker date="1539375992036" expanded="true" signature="252:620" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Informatik/E4/task_1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -100,21 +116,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Informatik/E4/task_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="-323">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Informatik/E4/task_4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
-              <folding>
-                <marker date="1539375105286" expanded="true" signature="524:771" ph="..." />
-                <marker date="1539375105286" expanded="true" signature="824:1071" ph="..." />
-              </folding>
+            <state relative-caret-position="-6">
+              <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -153,6 +165,7 @@
         <option value="$PROJECT_DIR$/Informatik/E4/task_2.py" />
         <option value="$PROJECT_DIR$/Informatik/E4/task_1.py" />
         <option value="$PROJECT_DIR$/Informatik/E4/task_4.py" />
+        <option value="$PROJECT_DIR$/Informatik/E4/task_3.py" />
       </list>
     </option>
   </component>
@@ -163,10 +176,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-812" />
-    <option name="y" value="242" />
-    <option name="width" value="2587" />
-    <option name="height" value="1089" />
+    <option name="x" value="-18" />
+    <option name="y" value="-18" />
+    <option name="width" value="3837" />
+    <option name="height" value="2037" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -179,6 +192,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,13 +209,18 @@
               <item name="Studium" type="b2602c69:ProjectViewProjectNode" />
               <item name="Studium" type="462c0819:PsiDirectoryNode" />
               <item name="Informatik" type="462c0819:PsiDirectoryNode" />
+              <item name="E3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Studium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Studium" type="462c0819:PsiDirectoryNode" />
+              <item name="Informatik" type="462c0819:PsiDirectoryNode" />
               <item name="E4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.task_4 (1)">
+  <component name="RunManager" selected="Python.task_3">
     <configuration name="task_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Studium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,6 +291,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Studium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Informatik/E4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Informatik/E4/task_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="task_4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Studium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -294,21 +335,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in task_1_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="Studium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Informatik/E4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Informatik/E4/task_1_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Unittests in task_2_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Studium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -325,19 +351,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests in task_1_test.py" />
       <item itemvalue="Python.task_2 (1)" />
       <item itemvalue="Python tests.Unittests in task_2_test.py" />
       <item itemvalue="Python.task_1 (1)" />
       <item itemvalue="Python.task_4 (1)" />
+      <item itemvalue="Python.task_3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task_4 (1)" />
-        <item itemvalue="Python.task_1 (1)" />
+        <item itemvalue="Python.task_3" />
         <item itemvalue="Python.task_2 (1)" />
+        <item itemvalue="Python.task_1 (1)" />
+        <item itemvalue="Python.task_4 (1)" />
         <item itemvalue="Python tests.Unittests in task_2_test.py" />
-        <item itemvalue="Python tests.Unittests in task_1_test.py" />
       </list>
     </recent_temporary>
   </component>
@@ -352,6 +378,14 @@
       <option name="presentableId" value="Default" />
       <updated>1537349245631</updated>
     </task>
+    <task id="LOCAL-00001" summary="implemented E4/task_4">
+      <created>1539375190553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539375190553</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -372,14 +406,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.51246107" visible="true" weight="0.2217484" />
-      <window_info id="Structure" order="1" sideWeight="0.48753893" side_tool="true" visible="true" weight="0.2217484" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5090253" visible="true" weight="0.342233" />
+      <window_info id="Structure" order="1" sideWeight="0.49097472" side_tool="true" visible="true" weight="0.342233" />
       <window_info id="Favorites" order="2" sideWeight="0.46312684" side_tool="true" weight="0.28398058" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49676377" visible="true" weight="0.30368763" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49676377" visible="true" weight="0.5079929" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23978686" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -403,6 +438,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="implemented E4/task_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented E4/task_4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/InformatikUndWirtschaft/quiz.py">
@@ -436,34 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Informatik/E3/task_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Informatik/E3/task_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Informatik/E3/task_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Informatik/E3/task_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Informatik/E4/task_1_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-250" />
@@ -481,30 +492,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Informatik/E4/lorem-ipsum.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="102" selection-start-line="8" selection-start-column="102" selection-end-line="8" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Informatik/E4/task_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Informatik/E4/task_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <marker date="1539375992036" expanded="true" signature="252:620" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Informatik/E3/task_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Informatik/E3/task_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Informatik/E3/task_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Informatik/E3/task_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Informatik/E4/task_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Informatik/E4/task_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <marker date="1539251081102" expanded="true" signature="380:381" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Informatik/E4/task_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Informatik/E4/task_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
-          <folding>
-            <marker date="1539375105286" expanded="true" signature="524:771" ph="..." />
-            <marker date="1539375105286" expanded="true" signature="824:1071" ph="..." />
           </folding>
         </state>
       </provider>
