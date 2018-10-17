@@ -89,7 +89,7 @@ def fire(board, coordinates):
     """
     Fires at coordinates:
         - If at coordinates there is a ship floating, then set the board cell to SUNK_SHIP, return True
-        - If at coordinates there is no ship, then set the board cell to MISSED_SHIP, return False
+        - If at coordinates there is no ship, then set the board cell to MISSED_SHOT, return False
         - If at coordinates there is an already sunk ship, then leave the board cell as SUNK_SHIP, return False
         - If coordinates are not valid, then leave board unchanged, return False
 
