@@ -236,4 +236,4 @@ if __name__ == '__main__':
 
     board = initialize_board()
 
-    print(are_coordinates_valid(board, (11, 0)))
+    play()

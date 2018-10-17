@@ -45,8 +45,12 @@ def preview_dognames(list, n):
     :param n: The number of lines to return the dog name
     :return: A list of strings, containing n entries of dog names
     """
+    preview_list = []
 
-    pass
+    for i in range(n):
+        preview_list.append(list[i]['HUNDENAME'])
+
+    return preview_list
 
 
 def dognames_count(list):
@@ -119,6 +123,29 @@ def is_valid_row(row, year=None, sex=None):
     :return: True if a row satisfies the specified filter constraints, False otherwise.
     """
 
+    if year is None and sex is None:
+        return True
+
+    if year is None and sex is not None:
+        if row['GESCHLECHT_HUND'] == sex:
+            return True
+        else:
+            return False
+
+    if year is not None and sex is None:
+        year = str(year)
+        if row['GEBURTSJAHR_HUND'] == year:
+            return True
+        else:
+            return False
+
+    if year is not None and sex is not None:
+        year = str(year)
+        if row['GEBURTSJAHR_HUND'] == year and row['GESCHLECHT_HUND'] == sex:
+            return True
+        else:
+            return False
+
     return True
 
 
@@ -165,8 +192,16 @@ if __name__ == '__main__':
     # This function has already been implemented for you.
     dognames = read_csv(filename)
 
+    row = dognames[0]
+
+    print(row['GESCHLECHT_HUND'])
+
+    print(dognames[999])
+
+    print(is_valid_row(dognames[999], year=2007, sex='m'))
+
     # Print a preview of the list, containing the first n dog names
-    print(preview_dognames(dognames, 5))
+    # print(preview_dognames(dognames, 3))
 
     # Print the number of occurrences of each unique dog name in the list
     print(dognames_count(dognames))
