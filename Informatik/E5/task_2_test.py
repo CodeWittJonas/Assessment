@@ -1,7 +1,5 @@
 import unittest
 from unittest import TestCase
-from unittest.mock import patch
-import collections
 
 import task_2 as student_submission
 
@@ -34,7 +32,7 @@ class Task2Test(TestCase):
         self.assertTrue(isinstance(preview, list), 'The return type of preview_dognames seems wrong')
 
         preview_all = student_submission.preview_dognames(dognames, 1396)
-        self.assertEqual(len(preview_all), 1122, 'The length of the result list seems wrong')
+        self.assertEqual(len(preview_all), 1396, 'The length of the result list seems wrong')
 
         all_strings = all(isinstance(name, str) for name in preview_all)
         self.assertTrue(all_strings, 'The result list should contain only strings')

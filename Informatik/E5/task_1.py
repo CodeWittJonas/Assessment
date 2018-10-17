@@ -75,9 +75,12 @@ def place_ship(board, coordinates):
     :param coordinates: coordinates where we want to place a ship
     :return: True if placement was valid (coordinates valid and not yet taken), false otherwise.
     """
-    if board[coordinates[0]][coordinates[1]] == WATER:
-        board[coordinates[0]][coordinates[1]] = SHIP
-        return True
+    if are_coordinates_valid(board, coordinates):
+        if board[coordinates[0]][coordinates[1]] == WATER:
+            board[coordinates[0]][coordinates[1]] = SHIP
+            return True
+        else:
+            return False
     else:
         return False
 
@@ -96,16 +99,17 @@ def fire(board, coordinates):
     :return: True iff coordinates mark a floating ship, False if water, ship already sunk or coordinates are invalid.
     """
 
-    if board[coordinates[0]][coordinates[1]] == SHIP:
-        board[coordinates[0]][coordinates[1]] = SUNK_SHIP
-        return True
+    if are_coordinates_valid(board, coordinates):
+        if board[coordinates[0]][coordinates[1]] == SHIP:
+            board[coordinates[0]][coordinates[1]] = SUNK_SHIP
+            return True
 
-    elif board[coordinates[0]][coordinates[1]] == WATER:
-        board[coordinates[0]][coordinates[1]] = MISSED_SHOT
-        return False
+        elif board[coordinates[0]][coordinates[1]] == WATER:
+            board[coordinates[0]][coordinates[1]] = MISSED_SHOT
+            return False
 
-    elif board[coordinates[0]][coordinates[1]] == SUNK_SHIP:
-        return False
+        elif board[coordinates[0]][coordinates[1]] == SUNK_SHIP:
+            return False
 
     else:
         return False
@@ -121,6 +125,8 @@ def are_coordinates_valid(board, coordinates):
     board_size = len(board)
 
     if coordinates[0] > board_size - 1 or coordinates[1] > board_size - 1:
+        return False
+    elif coordinates[0] < 0 or coordinates[1] < 0:
         return False
     else:
         return True
@@ -228,5 +234,6 @@ def play():
 
 if __name__ == '__main__':
 
-    play()
+    board = initialize_board()
 
+    print(are_coordinates_valid(board, (11, 0)))
