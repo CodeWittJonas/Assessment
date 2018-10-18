@@ -76,7 +76,17 @@ def dognames_count(list):
     key and the number of occurrences of that name (int) as value
     """
 
-    pass
+    names_count = {}
+
+    for index in range(len(list)):
+        dog_name = list[index]['HUNDENAME']
+
+        if dog_name not in names_count:
+            names_count.update({dog_name: 1})
+        else:
+            names_count[dog_name] += 1
+
+    return names_count
 
 
 def top_n_dognames(list, n):
@@ -99,7 +109,14 @@ def top_n_dognames(list, n):
     :return: A sorted list with tuples (dogname, count) with the top n most used dog names, starting with the highest one
     """
 
-    pass
+    list_to_evaluate = dognames_count(list)
+
+    sorted_list = sorted(list_to_evaluate.items(), key=operator.itemgetter(1), reverse=True)
+
+    for i in range(n, len(sorted_list)):
+        del sorted_list[n]
+
+    return sorted_list
 
 
 def is_valid_row(row, year=None, sex=None):
@@ -179,7 +196,13 @@ def filter_dognames(list, year=None, sex=None):
     :return:
     """
 
-    pass
+    filtered_list = []
+
+    for index in range(len(list)):
+        if is_valid_row(list[index], year, sex):
+            filtered_list.append(list[index])
+
+    return filtered_list
 
 
 if __name__ == '__main__':
@@ -196,12 +219,12 @@ if __name__ == '__main__':
 
     print(row['GESCHLECHT_HUND'])
 
-    print(dognames[999])
+    print(dognames[0]['HUNDENAME'])
 
     print(is_valid_row(dognames[999], year=2007, sex='m'))
 
     # Print a preview of the list, containing the first n dog names
-    # print(preview_dognames(dognames, 3))
+    print(preview_dognames(dognames, 3))
 
     # Print the number of occurrences of each unique dog name in the list
     print(dognames_count(dognames))

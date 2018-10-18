@@ -50,7 +50,6 @@ class Task2Test(TestCase):
 
         self.assertEqual(count['Rocky'], 10, 'The counting seems to be wrong')
 
-
     def test_has_top_n_dognames(self):
         """has top_n_dognames"""
         self.assertTrue(hasattr(student_submission, "top_n_dognames"), "You must declare 'top_n_dognames'")
