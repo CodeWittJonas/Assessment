@@ -3,7 +3,7 @@ def tokenize(text):
     return text.split()
 
 
-# ======== You can define the search_text function here. Do not write any code other than your solution here! ================
+# ======== You can define the search_text function here. Do not write any code other than your solution here! ==========
 def search_text(filename, query):
     content = ""
     num_of_occurences = 0
@@ -19,11 +19,7 @@ def search_text(filename, query):
 
     return num_of_occurences
 
-
-
-
 # ====================================================================================================================================
-
 
 if __name__ == '__main__':
 	# Here you can write code to test your function. Code you write here is solely for testing and will not be evaluated.
