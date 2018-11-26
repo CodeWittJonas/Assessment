@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15a71a81-b572-423d-bd35-4c6e5ac5ea6e" name="Default Changelist" comment="minor change in docstring of task_1.py">
+      <change beforePath="$PROJECT_DIR$/.idea/Studium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Studium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Informatik/E8/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Informatik/E8/task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Informatik/E8/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Informatik/E8/task_2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,61 +13,67 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test_test_unlock.coverage" NAME="Unittests for task_1_test.Task1Test.test_unlock Coverage Results" MODIFIED="1541671848900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E7" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_has_read_csv.coverage" NAME="Unittests for task_2_test.Task2Test.test_has_read_csv Coverage Results" MODIFIED="1539841339059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_has_filter_dognames.coverage" NAME="Unittests for task_2_test.Task2Test.test_has_filter_dognames Coverage Results" MODIFIED="1539863642357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
-    <SUITE FILE_PATH="coverage/Studium$task_2.coverage" NAME="task_2 Coverage Results" MODIFIED="1541966939217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E7" />
-    <SUITE FILE_PATH="coverage/Studium$task_1__1_.coverage" NAME="task_1 (1) Coverage Results" MODIFIED="1541063956917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test__1_.coverage" NAME="Unittests for task_1_test.Task1Test (1) Coverage Results" MODIFIED="1541610296341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E7" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_listDuplicates_listContainingNone_typeErrorRaised.coverage" NAME="Unittests for task_2_test.Task2Test.test_listDuplicates_listContainingNone_typeErrorRaised Coverage Results" MODIFIED="1541077154240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_CarJobRepositoryTest.coverage" NAME="Unittests for task_1_test.CarJobRepositoryTest Coverage Results" MODIFIED="1543261314830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E9" />
     <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_listDuplicates_listOfNumbers_checkIfListContainsTuples.coverage" NAME="Unittests for task_2_test.Task2Test.test_listDuplicates_listOfNumbers_checkIfListContainsTuples Coverage Results" MODIFIED="1541076745611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
-    <SUITE FILE_PATH="coverage/Studium$task_2_b__1_.coverage" NAME="task_2_b (1) Coverage Results" MODIFIED="1538557752078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E2" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_listDuplicates_listOfNumbers_correctIndexesReturned.coverage" NAME="Unittests for task_2_test.Task2Test.test_listDuplicates_listOfNumbers_correctIndexesReturned Coverage Results" MODIFIED="1541077375303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
     <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_4_test_Task4Test.coverage" NAME="Unittests for task_4_test.Task4Test Coverage Results" MODIFIED="1541260552611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
-    <SUITE FILE_PATH="coverage/Studium$test_prep.coverage" NAME="test_prep Coverage Results" MODIFIED="1540890670981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test_test_get_password.coverage" NAME="Unittests for task_1_test.Task1Test.test_get_password Coverage Results" MODIFIED="1541672817404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E7" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_read_csv.coverage" NAME="Unittests for task_2_test.Task2Test.test_read_csv Coverage Results" MODIFIED="1539841345296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
-    <SUITE FILE_PATH="coverage/Studium$testfile.coverage" NAME="testfile Coverage Results" MODIFIED="1539841775622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E4" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_3_test_Task3Test_test_transferFromTo_negativeValue_noChange.coverage" NAME="Unittests for task_3_test.Task3Test.test_transferFromTo_negativeValue_noChange Coverage Results" MODIFIED="1541249136679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_4_test_Task4Test_test_swapCase_mixedCases_swapedCases.coverage" NAME="Unittests for task_4_test.Task4Test.test_swapCase_mixedCases_swapedCases Coverage Results" MODIFIED="1541260549262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test_test_create_new_password.coverage" NAME="Unittests for task_1_test.Task1Test.test_create_new_password Coverage Results" MODIFIED="1541671855947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E7" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_filter_dognames.coverage" NAME="Unittests for task_2_test.Task2Test.test_filter_dognames Coverage Results" MODIFIED="1539863652516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_is_valid_row.coverage" NAME="Unittests for task_2_test.Task2Test.test_is_valid_row Coverage Results" MODIFIED="1539841320828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
-    <SUITE FILE_PATH="coverage/Studium$task_1.coverage" NAME="task_1 Coverage Results" MODIFIED="1542138449517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E8" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_has_is_valid_row.coverage" NAME="Unittests for task_2_test.Task2Test.test_has_is_valid_row Coverage Results" MODIFIED="1539841316941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_has_top_n_dognames.coverage" NAME="Unittests for task_2_test.Task2Test.test_has_top_n_dognames Coverage Results" MODIFIED="1539847358842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test_test_unlock.coverage" NAME="Unittests for task_1_test.Task1Test.test_unlock Coverage Results" MODIFIED="1541671848900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E7" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_CarWashJobTest_test_notification_message.coverage" NAME="Unittests for task_1_test.CarWashJobTest.test_notification_message Coverage Results" MODIFIED="1543164112876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E9" />
+    <SUITE FILE_PATH="coverage/Studium$task_3.coverage" NAME="task_3 Coverage Results" MODIFIED="1541258816243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_CarWashJobTest_test_contact_details.coverage" NAME="Unittests for task_1_test.CarWashJobTest.test_contact_details Coverage Results" MODIFIED="1543167312455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E9" />
     <SUITE FILE_PATH="coverage/Studium$Unittests_in_task_1_test_py.coverage" NAME="Unittests in task_1_test.py Coverage Results" MODIFIED="1539152881253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E4" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_4_test_Task4Test_test_swapCase_mixedCases_swapedCases.coverage" NAME="Unittests for task_4_test.Task4Test.test_swapCase_mixedCases_swapedCases Coverage Results" MODIFIED="1541260549262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_has_read_csv.coverage" NAME="Unittests for task_2_test.Task2Test.test_has_read_csv Coverage Results" MODIFIED="1539841339059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_3_test_Task3Test_test_createAccount_negativeBalance_noAccountCreated.coverage" NAME="Unittests for task_3_test.Task3Test.test_createAccount_negativeBalance_noAccountCreated Coverage Results" MODIFIED="1541248567705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test_test_quickSort_largeList_sameListSorted.coverage" NAME="Unittests for task_1_test.Task1Test.test_quickSort_largeList_sameListSorted Coverage Results" MODIFIED="1541061853727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$test_pickle.coverage" NAME="test_pickle Coverage Results" MODIFIED="1543254709265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E9" />
+    <SUITE FILE_PATH="coverage/Studium$task_2_b__1_.coverage" NAME="task_2_b (1) Coverage Results" MODIFIED="1538557752078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E2" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_has_preview_dognames.coverage" NAME="Unittests for task_2_test.Task2Test.test_has_preview_dognames Coverage Results" MODIFIED="1539841350641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
+    <SUITE FILE_PATH="coverage/Studium$task_1.coverage" NAME="task_1 Coverage Results" MODIFIED="1542138449517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E8" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_CarWashJobTest.coverage" NAME="Unittests for task_1_test.CarWashJobTest Coverage Results" MODIFIED="1543261305066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E9" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_4_test_Task4Test_test_swapCase_allLowerCase_allUpperCase.coverage" NAME="Unittests for task_4_test.Task4Test.test_swapCase_allLowerCase_allUpperCase Coverage Results" MODIFIED="1541259543814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$quiz.coverage" NAME="quiz Coverage Results" MODIFIED="1538388885124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InformatikUndWirtschaft" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_read_csv.coverage" NAME="Unittests for task_2_test.Task2Test.test_read_csv Coverage Results" MODIFIED="1539841345296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_has_is_valid_row.coverage" NAME="Unittests for task_2_test.Task2Test.test_has_is_valid_row Coverage Results" MODIFIED="1539841316941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_listDuplicates_listOfNumbers_returnListOfTuples.coverage" NAME="Unittests for task_2_test.Task2Test.test_listDuplicates_listOfNumbers_returnListOfTuples Coverage Results" MODIFIED="1541076637022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_3_test_Task3Test_test_transferFromTo_samePerson_noChange.coverage" NAME="Unittests for task_3_test.Task3Test.test_transferFromTo_samePerson_noChange Coverage Results" MODIFIED="1541258959562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test_test_quickSort_numbersListSmallMargins_numbersListSortedAscending.coverage" NAME="Unittests for task_1_test.Task1Test.test_quickSort_numbersListSmallMargins_numbersListSortedAscending Coverage Results" MODIFIED="1541077933946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_has_dognames_count.coverage" NAME="Unittests for task_2_test.Task2Test.test_has_dognames_count Coverage Results" MODIFIED="1539847238020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
+    <SUITE FILE_PATH="coverage/Studium$task_2_a.coverage" NAME="task_2_a Coverage Results" MODIFIED="1538388978556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test_test_create_new_password.coverage" NAME="Unittests for task_1_test.Task1Test.test_create_new_password Coverage Results" MODIFIED="1541671855947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E7" />
+    <SUITE FILE_PATH="coverage/Studium$task_1_test.coverage" NAME="task_1_test Coverage Results" MODIFIED="1542796774096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$test_prep.coverage" NAME="test_prep Coverage Results" MODIFIED="1540890670981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test_test_quickSort_numbersListContainingNegatives_numbersListSortedAscending.coverage" NAME="Unittests for task_1_test.Task1Test.test_quickSort_numbersListContainingNegatives_numbersListSortedAscending Coverage Results" MODIFIED="1541063739398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$task_2_b.coverage" NAME="task_2_b Coverage Results" MODIFIED="1538557734288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Studium$task_2.coverage" NAME="task_2 Coverage Results" MODIFIED="1541966939217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E7" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test_test_quickSort_listContainingNone_typeErrorRaised.coverage" NAME="Unittests for task_1_test.Task1Test.test_quickSort_listContainingNone_typeErrorRaised Coverage Results" MODIFIED="1541061164914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_4_test_Task4Test_test_swapCase_noInput_none.coverage" NAME="Unittests for task_4_test.Task4Test.test_swapCase_noInput_none Coverage Results" MODIFIED="1541260662275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test.coverage" NAME="Unittests for task_1_test.Task1Test Coverage Results" MODIFIED="1541966944950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E7" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_3_test_Task3Test_test_transferFromTo_validInformation_valueTransferred.coverage" NAME="Unittests for task_3_test.Task3Test.test_transferFromTo_validInformation_valueTransferred Coverage Results" MODIFIED="1541248882792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_3_test_Task3Test_test_createAccount_validInformation_newAccountAdded.coverage" NAME="Unittests for task_3_test.Task3Test.test_createAccount_validInformation_newAccountAdded Coverage Results" MODIFIED="1541249047773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$task_4__1_.coverage" NAME="task_4 (1) Coverage Results" MODIFIED="1539375105303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E4" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_preview_dognames.coverage" NAME="Unittests for task_2_test.Task2Test.test_preview_dognames Coverage Results" MODIFIED="1539841354177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
     <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test_test_has_initialize_board.coverage" NAME="Unittests for task_1_test.Task1Test.test_has_initialize_board Coverage Results" MODIFIED="1539717668310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
     <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test.coverage" NAME="Unittests for task_2_test.Task2Test Coverage Results" MODIFIED="1541153690781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_4_test_Task4Test_test_swapCase_noInput_none.coverage" NAME="Unittests for task_4_test.Task4Test.test_swapCase_noInput_none Coverage Results" MODIFIED="1541260662275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_listDuplicates_listOfNumbers_correctIndexesReturned.coverage" NAME="Unittests for task_2_test.Task2Test.test_listDuplicates_listOfNumbers_correctIndexesReturned Coverage Results" MODIFIED="1541077375303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
-    <SUITE FILE_PATH="coverage/Studium$hello_pycharm.coverage" NAME="hello_pycharm Coverage Results" MODIFIED="1537349912781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_3_test_Task3Test_test_createAccount_validInformation_newAccountAdded.coverage" NAME="Unittests for task_3_test.Task3Test.test_createAccount_validInformation_newAccountAdded Coverage Results" MODIFIED="1541249047773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test_test_quickSort_numbersListSmallMargins_numbersListSortedAscending.coverage" NAME="Unittests for task_1_test.Task1Test.test_quickSort_numbersListSmallMargins_numbersListSortedAscending Coverage Results" MODIFIED="1541077933946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test_test_quickSort_listContainingNone_typeErrorRaised.coverage" NAME="Unittests for task_1_test.Task1Test.test_quickSort_listContainingNone_typeErrorRaised Coverage Results" MODIFIED="1541061164914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$testfile.coverage" NAME="testfile Coverage Results" MODIFIED="1539841775622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E4" />
     <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test_test_quickSort_noArgumentProvided_typeErrorRaised.coverage" NAME="Unittests for task_1_test.Task1Test.test_quickSort_noArgumentProvided_typeErrorRaised Coverage Results" MODIFIED="1541064025091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test_test_quickSort_largeList_sameListSorted.coverage" NAME="Unittests for task_1_test.Task1Test.test_quickSort_largeList_sameListSorted Coverage Results" MODIFIED="1541061853727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
-    <SUITE FILE_PATH="coverage/Studium$task_4__1_.coverage" NAME="task_4 (1) Coverage Results" MODIFIED="1539375105303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E4" />
-    <SUITE FILE_PATH="coverage/Studium$task_2__1_.coverage" NAME="task_2 (1) Coverage Results" MODIFIED="1542286620529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E8" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_listDuplicates_listOfNumbers_returnListOfTuples.coverage" NAME="Unittests for task_2_test.Task2Test.test_listDuplicates_listOfNumbers_returnListOfTuples Coverage Results" MODIFIED="1541076637022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test_test_quickSort_numbersListContainingNegatives_numbersListSortedAscending.coverage" NAME="Unittests for task_1_test.Task1Test.test_quickSort_numbersListContainingNegatives_numbersListSortedAscending Coverage Results" MODIFIED="1541063739398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_3_test_Task3Test_test_transferFromTo_samePerson_noChange.coverage" NAME="Unittests for task_3_test.Task3Test.test_transferFromTo_samePerson_noChange Coverage Results" MODIFIED="1541258959562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
-    <SUITE FILE_PATH="coverage/Studium$task_2_b.coverage" NAME="task_2_b Coverage Results" MODIFIED="1538557734288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_4_test_Task4Test_test_swapCase_allLowerCase_allUpperCase.coverage" NAME="Unittests for task_4_test.Task4Test.test_swapCase_allLowerCase_allUpperCase Coverage Results" MODIFIED="1541259543814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_is_valid_row.coverage" NAME="Unittests for task_2_test.Task2Test.test_is_valid_row Coverage Results" MODIFIED="1539841320828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_has_filter_dognames.coverage" NAME="Unittests for task_2_test.Task2Test.test_has_filter_dognames Coverage Results" MODIFIED="1539863642357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
     <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_dognames_count.coverage" NAME="Unittests for task_2_test.Task2Test.test_dognames_count Coverage Results" MODIFIED="1539847243304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test.coverage" NAME="Unittests for task_1_test.Task1Test Coverage Results" MODIFIED="1541966944950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E7" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_4_test_Task4Test_test_swapCase_allUpperCase_allLowerCase.coverage" NAME="Unittests for task_4_test.Task4Test.test_swapCase_allUpperCase_allLowerCase Coverage Results" MODIFIED="1541259644994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_has_preview_dognames.coverage" NAME="Unittests for task_2_test.Task2Test.test_has_preview_dognames Coverage Results" MODIFIED="1539841350641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_3_test_Task3Test.coverage" NAME="Unittests for task_3_test.Task3Test Coverage Results" MODIFIED="1541259004365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_in_task_2_test_py.coverage" NAME="Unittests in task_2_test.py Coverage Results" MODIFIED="1539154765465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E4" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_3_test_Task3Test_test_transferFromTo_validInformation_valueTransferred.coverage" NAME="Unittests for task_3_test.Task3Test.test_transferFromTo_validInformation_valueTransferred Coverage Results" MODIFIED="1541248882792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
-    <SUITE FILE_PATH="coverage/Studium$task_4.coverage" NAME="task_4 Coverage Results" MODIFIED="1541259435429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
     <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test_test_list_passwords.coverage" NAME="Unittests for task_1_test.Task1Test.test_list_passwords Coverage Results" MODIFIED="1541673726951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E7" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_has_dognames_count.coverage" NAME="Unittests for task_2_test.Task2Test.test_has_dognames_count Coverage Results" MODIFIED="1539847238020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
-    <SUITE FILE_PATH="coverage/Studium$quiz.coverage" NAME="quiz Coverage Results" MODIFIED="1538388885124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InformatikUndWirtschaft" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_3_test_Task3Test_test_createAccount_negativeBalance_noAccountCreated.coverage" NAME="Unittests for task_3_test.Task3Test.test_createAccount_negativeBalance_noAccountCreated Coverage Results" MODIFIED="1541248567705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
-    <SUITE FILE_PATH="coverage/Studium$task_2_a.coverage" NAME="task_2_a Coverage Results" MODIFIED="1538388978556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_preview_dognames.coverage" NAME="Unittests for task_2_test.Task2Test.test_preview_dognames Coverage Results" MODIFIED="1539841354177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
-    <SUITE FILE_PATH="coverage/Studium$task_3.coverage" NAME="task_3 Coverage Results" MODIFIED="1541258816243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test__1_.coverage" NAME="Unittests for task_1_test.Task1Test (1) Coverage Results" MODIFIED="1541610296341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E7" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_has_top_n_dognames.coverage" NAME="Unittests for task_2_test.Task2Test.test_has_top_n_dognames Coverage Results" MODIFIED="1539847358842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
+    <SUITE FILE_PATH="coverage/Studium$task_4.coverage" NAME="task_4 Coverage Results" MODIFIED="1541259435429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$task_2__1_.coverage" NAME="task_2 (1) Coverage Results" MODIFIED="1542796750723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E8" />
+    <SUITE FILE_PATH="coverage/Studium$task_1__1_.coverage" NAME="task_1 (1) Coverage Results" MODIFIED="1543164526755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E9" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_in_task_2_test_py.coverage" NAME="Unittests in task_2_test.py Coverage Results" MODIFIED="1539154765465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E4" />
+    <SUITE FILE_PATH="coverage/Studium$hello_pycharm.coverage" NAME="hello_pycharm Coverage Results" MODIFIED="1537349912781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_listDuplicates_listContainingNone_typeErrorRaised.coverage" NAME="Unittests for task_2_test.Task2Test.test_listDuplicates_listContainingNone_typeErrorRaised Coverage Results" MODIFIED="1541077154240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_4_test_Task4Test_test_swapCase_allUpperCase_allLowerCase.coverage" NAME="Unittests for task_4_test.Task4Test.test_swapCase_allUpperCase_allLowerCase Coverage Results" MODIFIED="1541259644994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_1_test_Task1Test_test_get_password.coverage" NAME="Unittests for task_1_test.Task1Test.test_get_password Coverage Results" MODIFIED="1541672817404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E7" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_3_test_Task3Test.coverage" NAME="Unittests for task_3_test.Task3Test Coverage Results" MODIFIED="1541259004365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_2_test_Task2Test_test_filter_dognames.coverage" NAME="Unittests for task_2_test.Task2Test.test_filter_dognames Coverage Results" MODIFIED="1539863652516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E5" />
+    <SUITE FILE_PATH="coverage/Studium$Unittests_for_task_3_test_Task3Test_test_transferFromTo_negativeValue_noChange.coverage" NAME="Unittests for task_3_test.Task3Test.test_transferFromTo_negativeValue_noChange Coverage Results" MODIFIED="1541249136679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Informatik/E6" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -128,6 +134,41 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-990993659">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="9" />
+          <entry key="tsv" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="py" value="2432" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="2432" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Studium" />
@@ -135,30 +176,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Informatik/E8/task_2.py">
+        <entry file="file://$PROJECT_DIR$/Informatik/E9/task_1_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-35">
-              <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+            <state relative-caret-position="935">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
               <folding>
-                <marker date="1542286486206" expanded="true" signature="52:445" ph="..." />
-                <marker date="1542286486206" expanded="true" signature="498:504" ph="..." />
-                <marker date="1542286486206" expanded="true" signature="1549:1555" ph="..." />
-                <marker date="1542286486206" expanded="true" signature="1914:2605" ph="..." />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Informatik/E8/task_1.py">
+        <entry file="file://$PROJECT_DIR$/Informatik/E9/test_pickle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1088">
-              <caret line="64" column="1" selection-start-line="64" selection-end-line="64" selection-end-column="120" />
+            <state>
+              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Informatik/E9/task_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
               <folding>
-                <marker date="1542138449508" expanded="true" signature="235:254" ph="..." />
-                <marker date="1542138449508" expanded="true" signature="426:432" ph="..." />
-                <marker date="1542138449508" expanded="true" signature="961:984" ph="..." />
-                <marker date="1542138449508" expanded="true" signature="1544:1852" ph="..." />
+                <element signature="e#0#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -208,7 +252,6 @@
         <option value="$PROJECT_DIR$/Informatik/E6/task_1.py" />
         <option value="$PROJECT_DIR$/Informatik/E6/task_2.py" />
         <option value="$PROJECT_DIR$/Informatik/E6/task_2_test.py" />
-        <option value="$PROJECT_DIR$/Informatik/E6/task_1_test.py" />
         <option value="$PROJECT_DIR$/Informatik/E6/task_3.py" />
         <option value="$PROJECT_DIR$/Informatik/E6/task_3_test.py" />
         <option value="$PROJECT_DIR$/Informatik/E6/task_4.py" />
@@ -218,6 +261,10 @@
         <option value="$PROJECT_DIR$/Informatik/E7/task_2.py" />
         <option value="$PROJECT_DIR$/Informatik/E8/task_1.py" />
         <option value="$PROJECT_DIR$/Informatik/E8/task_2.py" />
+        <option value="$PROJECT_DIR$/Informatik/E6/task_1_test.py" />
+        <option value="$PROJECT_DIR$/Informatik/E9/task_1_test.py" />
+        <option value="$PROJECT_DIR$/Informatik/E9/test_pickle.py" />
+        <option value="$PROJECT_DIR$/Informatik/E9/task_1.py" />
       </list>
     </option>
   </component>
@@ -256,12 +303,6 @@
               <item name="Studium" type="462c0819:PsiDirectoryNode" />
               <item name="Informatik" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Studium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Studium" type="462c0819:PsiDirectoryNode" />
-              <item name="Informatik" type="462c0819:PsiDirectoryNode" />
-              <item name="E8" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -273,7 +314,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -293,8 +334,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.task_2 (1)">
-    <configuration name="task_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests for task_1_test.CarJobRepositoryTest">
+    <configuration name="task_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Studium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,12 +343,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Informatik/E8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Informatik/E9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Informatik/E8/task_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Informatik/E9/task_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,7 +357,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_pickle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Studium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,12 +365,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Informatik/E8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Informatik/E9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Informatik/E8/task_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Informatik/E9/test_pickle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,72 +379,65 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Studium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Informatik/E7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Informatik/E7/task_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for task_1_test.Task1Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for task_1_test.CarJobRepositoryTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Studium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Informatik/E7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Informatik/E9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;task_1_test.Task1Test&quot;" />
+      <option name="_new_target" value="&quot;task_1_test.CarJobRepositoryTest&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for task_1_test.Task1Test.test_list_passwords" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for task_1_test.CarWashJobTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Studium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Informatik/E7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Informatik/E9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;task_1_test.Task1Test.test_list_passwords&quot;" />
+      <option name="_new_target" value="&quot;task_1_test.CarWashJobTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for task_1_test.CarWashJobTest.test_contact_details" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Studium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Informatik/E9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;task_1_test.CarWashJobTest.test_contact_details&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests for task_1_test.Task1Test.test_list_passwords" />
-      <item itemvalue="Python tests.Unittests for task_1_test.Task1Test" />
-      <item itemvalue="Python.task_2" />
-      <item itemvalue="Python.task_1" />
-      <item itemvalue="Python.task_2 (1)" />
+      <item itemvalue="Python.task_1 (1)" />
+      <item itemvalue="Python tests.Unittests for task_1_test.CarWashJobTest" />
+      <item itemvalue="Python tests.Unittests for task_1_test.CarWashJobTest.test_contact_details" />
+      <item itemvalue="Python.test_pickle" />
+      <item itemvalue="Python tests.Unittests for task_1_test.CarJobRepositoryTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task_2 (1)" />
-        <item itemvalue="Python.task_1" />
-        <item itemvalue="Python tests.Unittests for task_1_test.Task1Test" />
-        <item itemvalue="Python.task_2" />
-        <item itemvalue="Python tests.Unittests for task_1_test.Task1Test.test_list_passwords" />
+        <item itemvalue="Python tests.Unittests for task_1_test.CarJobRepositoryTest" />
+        <item itemvalue="Python tests.Unittests for task_1_test.CarWashJobTest" />
+        <item itemvalue="Python.test_pickle" />
+        <item itemvalue="Python tests.Unittests for task_1_test.CarWashJobTest.test_contact_details" />
+        <item itemvalue="Python.task_1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -443,35 +477,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_task_1_test_Task1Test_test_create_new_password - 2018.11.08 at 11h 10m 56s.xml">
-      <configuration name="Unittests for task_1_test.Task1Test.test_create_new_password" configurationId="tests" />
+    <history-entry file="Unittests_for_task_1_test_CarWashJobTest_test_contact_details - 2018.11.25 at 18h 35m 44s.xml">
+      <configuration name="Unittests for task_1_test.CarWashJobTest.test_contact_details" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_task_1_test_Task1Test_test_get_password - 2018.11.08 at 11h 11m 02s.xml">
-      <configuration name="Unittests for task_1_test.Task1Test.test_get_password" configurationId="tests" />
+    <history-entry file="Unittests_for_task_1_test_CarWashJobTest - 2018.11.25 at 18h 36m 02s.xml">
+      <configuration name="Unittests for task_1_test.CarWashJobTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_task_1_test_Task1Test_test_get_password - 2018.11.08 at 11h 25m 35s.xml">
-      <configuration name="Unittests for task_1_test.Task1Test.test_get_password" configurationId="tests" />
+    <history-entry file="Unittests_for_task_1_test_CarJobRepositoryTest - 2018.11.26 at 19h 00m 13s.xml">
+      <configuration name="Unittests for task_1_test.CarJobRepositoryTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_task_1_test_Task1Test_test_get_password - 2018.11.08 at 11h 26m 57s.xml">
-      <configuration name="Unittests for task_1_test.Task1Test.test_get_password" configurationId="tests" />
+    <history-entry file="Unittests_for_task_1_test_CarJobRepositoryTest - 2018.11.26 at 20h 26m 11s.xml">
+      <configuration name="Unittests for task_1_test.CarJobRepositoryTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_task_1_test_Task1Test_test_list_passwords - 2018.11.08 at 11h 36m 21s.xml">
-      <configuration name="Unittests for task_1_test.Task1Test.test_list_passwords" configurationId="tests" />
+    <history-entry file="Unittests_for_task_1_test_CarJobRepositoryTest - 2018.11.26 at 20h 29m 37s.xml">
+      <configuration name="Unittests for task_1_test.CarJobRepositoryTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_task_1_test_Task1Test_test_list_passwords - 2018.11.08 at 11h 38m 35s.xml">
-      <configuration name="Unittests for task_1_test.Task1Test.test_list_passwords" configurationId="tests" />
+    <history-entry file="Unittests_for_task_1_test_CarJobRepositoryTest - 2018.11.26 at 20h 31m 30s.xml">
+      <configuration name="Unittests for task_1_test.CarJobRepositoryTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_task_1_test_Task1Test_test_list_passwords - 2018.11.08 at 11h 40m 07s.xml">
-      <configuration name="Unittests for task_1_test.Task1Test.test_list_passwords" configurationId="tests" />
+    <history-entry file="Unittests_for_task_1_test_CarJobRepositoryTest - 2018.11.26 at 20h 33m 13s.xml">
+      <configuration name="Unittests for task_1_test.CarJobRepositoryTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_task_1_test_Task1Test_test_list_passwords - 2018.11.08 at 11h 42m 07s.xml">
-      <configuration name="Unittests for task_1_test.Task1Test.test_list_passwords" configurationId="tests" />
+    <history-entry file="Unittests_for_task_1_test_CarWashJobTest - 2018.11.26 at 20h 33m 27s.xml">
+      <configuration name="Unittests for task_1_test.CarWashJobTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_task_1_test_Task1Test - 2018.11.08 at 11h 42m 13s.xml">
-      <configuration name="Unittests for task_1_test.Task1Test" configurationId="tests" />
+    <history-entry file="Unittests_for_task_1_test_CarWashJobTest - 2018.11.26 at 20h 41m 45s.xml">
+      <configuration name="Unittests for task_1_test.CarWashJobTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_task_1_test_Task1Test - 2018.11.08 at 17h 45m 30s.xml">
-      <configuration name="Unittests for task_1_test.Task1Test" configurationId="tests" />
+    <history-entry file="Unittests_for_task_1_test_CarJobRepositoryTest - 2018.11.26 at 20h 41m 55s.xml">
+      <configuration name="Unittests for task_1_test.CarJobRepositoryTest" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView" selected-index="1">
@@ -484,14 +518,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.55831265" visible="true" weight="0.14644013" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.44168735" side_tool="true" visible="true" weight="0.14644013" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5469697" visible="true" weight="0.15778251" />
+      <window_info id="Structure" order="1" sideWeight="0.4530303" side_tool="true" visible="true" weight="0.15778251" />
       <window_info id="Favorites" order="2" sideWeight="0.61989343" side_tool="true" weight="0.23300971" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.28419182" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49520257" visible="true" weight="0.28416485" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.20607375" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -499,7 +534,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.26030368" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50319827" side_tool="true" weight="0.37635574" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50479746" side_tool="true" weight="0.28416485" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49676377" weight="0.29067245" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4968017" weight="0.21475054" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" sideWeight="0.49919093" weight="0.3285968" />
@@ -598,24 +633,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/InformatikUndWirtschaft/quiz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Informatik/task_1.py" />
     <entry file="file://$PROJECT_DIR$/Informatik/task_2_a.py" />
     <entry file="file://$PROJECT_DIR$/Informatik/hello_pycharm.py" />
     <entry file="file://$PROJECT_DIR$/Informatik/task_2_b.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/tokenize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="446" selection-start-line="446" selection-end-line="446" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/tokenize.py" />
     <entry file="file://$PROJECT_DIR$/Informatik/E2/task_1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -689,13 +710,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/genericpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/genericpath.py" />
     <entry file="file://$PROJECT_DIR$/Informatik/E5/task_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="481">
@@ -773,13 +788,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="456" column="8" selection-start-line="456" selection-start-column="8" selection-end-line="456" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Informatik/E6/task_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -822,20 +830,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Informatik/E6/task_1_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="99" selection-start-line="22" selection-start-column="99" selection-end-line="22" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/185851057/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="815" column="8" selection-start-line="815" selection-start-column="8" selection-end-line="815" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/185851057/builtins.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -843,13 +838,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/codecs.py" />
     <entry file="file://$PROJECT_DIR$/Informatik/E7/task_1_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1054">
@@ -868,36 +857,77 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-85">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding>
-            <marker date="1541754283291" expanded="true" signature="2423:2429" ph="..." />
-            <marker date="1541754283291" expanded="true" signature="3418:3427" ph="..." />
-            <marker date="1541754283291" expanded="true" signature="3969:3970" ph="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Informatik/E6/task_1_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Informatik/E8/task_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-35">
-          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-          <folding>
-            <marker date="1542286486206" expanded="true" signature="52:445" ph="..." />
-            <marker date="1542286486206" expanded="true" signature="498:504" ph="..." />
-            <marker date="1542286486206" expanded="true" signature="1549:1555" ph="..." />
-            <marker date="1542286486206" expanded="true" signature="1914:2605" ph="..." />
-          </folding>
+        <state relative-caret-position="799">
+          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Informatik/E8/task_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="1" selection-start-line="64" selection-end-line="64" selection-end-column="120" />
+        <state relative-caret-position="134">
+          <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="614" selection-start-line="614" selection-end-line="614" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Informatik/E9/test_db.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/dbm/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Informatik/E9/test_file.tsv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Informatik/E9/test_pickle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Informatik/E9/task_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
           <folding>
-            <marker date="1542138449508" expanded="true" signature="235:254" ph="..." />
-            <marker date="1542138449508" expanded="true" signature="426:432" ph="..." />
-            <marker date="1542138449508" expanded="true" signature="961:984" ph="..." />
-            <marker date="1542138449508" expanded="true" signature="1544:1852" ph="..." />
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Informatik/E9/task_1_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
