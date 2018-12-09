@@ -21,7 +21,17 @@ class WordLogic(object):
         fixed_length_words = [word.upper() for word in word_list if len(word) is self.length]
 
         random.shuffle(fixed_length_words)
-        return fixed_length_words[0:self.num_words]
+        selected_words = []
+        for i in range(round(self.num_words/3)):
+            selected_words.append(fixed_length_words[i])
+
+        while len(selected_words) < self.num_words:
+            random_word_from_selected = random.choice(selected_words)
+            random_word_from_pool = random.choice(fixed_length_words)
+            if self.compute_similarity(random_word_from_pool, random_word_from_selected, 0.6):
+                selected_words.append(random_word_from_pool)
+
+        return selected_words
 
     def compute_similarity(self, a, b, threshold):
         return threshold > SequenceMatcher(None, a, b).ratio()
