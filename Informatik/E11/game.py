@@ -1,9 +1,61 @@
 import os
 import random
 from difflib import SequenceMatcher
+from abc import ABC, abstractmethod
 
 
-class WordLogic(object):
+class GameLogic(ABC):
+
+    @abstractmethod
+    def __init__(self, num_words, length, attempts):
+        pass
+
+    @abstractmethod
+    def word_selection(self):
+        pass
+
+    @abstractmethod
+    def check(self):
+        pass
+
+
+class NumberLogic(GameLogic):
+
+    def __init__(self, num_words, length, attempts):
+        self.num_words = num_words
+        self.length = length
+        self.attempts = attempts
+        self.words = self.word_selection()
+        self.password = random.choice(self.words)
+
+    def word_selection(self):
+        numbers = []
+        for i in range(self.num_words):
+            numbers.append(str(self.random_n_digit_number(self.length)))
+
+        return numbers
+
+    def check(self, guess):
+
+        if len(guess) != len(self.password):
+            return False, ["Wrong length"]
+        if guess == self.password:
+            return True, ["Access granted!"]
+        else:
+            matching_digits = 0
+            for digit in guess:
+                if digit in self.password:
+                    matching_digits += 1
+            return False, ["{}/{} correct".format(matching_digits, len(self.password))]
+
+
+    def random_n_digit_number(self, n):
+        range_start = 10**(n-1)
+        range_end = 10**n - 1
+        return random.randint(range_start, range_end)
+
+
+class WordLogic(GameLogic):
     """Internal game logic"""
 
     def __init__(self, num_words, length, attempts):
@@ -131,6 +183,6 @@ class GameRunner(object):
 
 
 if __name__ == '__main__':
-    logic = WordLogic(num_words=7, length=4, attempts=4)
+    logic = NumberLogic(num_words=7, length=4, attempts=4)
     runner = GameRunner(logic)
     runner.run()
