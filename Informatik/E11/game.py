@@ -6,9 +6,12 @@ from abc import ABC, abstractmethod
 
 class GameLogic(ABC):
 
-    @abstractmethod
     def __init__(self, num_words, length, attempts):
-        pass
+        self.num_words = num_words
+        self.length = length
+        self.attempts = attempts
+        self.words = self.word_selection()
+        self.password = random.choice(self.words)
 
     @abstractmethod
     def word_selection(self):
@@ -22,11 +25,7 @@ class GameLogic(ABC):
 class NumberLogic(GameLogic):
 
     def __init__(self, num_words, length, attempts):
-        self.num_words = num_words
-        self.length = length
-        self.attempts = attempts
-        self.words = self.word_selection()
-        self.password = random.choice(self.words)
+        super().__init__(num_words, length, attempts)
 
     def word_selection(self):
         numbers = []
@@ -59,12 +58,7 @@ class WordLogic(GameLogic):
     """Internal game logic"""
 
     def __init__(self, num_words, length, attempts):
-        """Set up a new game with the provided parameters"""
-        self.num_words = num_words
-        self.length = length
-        self.attempts = attempts
-        self.words = self.word_selection()
-        self.password = random.choice(self.words)
+        super().__init__(num_words, length, attempts)
 
     def word_selection(self):
         with open("words.txt") as f:

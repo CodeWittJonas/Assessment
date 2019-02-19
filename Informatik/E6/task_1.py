@@ -24,6 +24,7 @@ def quick_sort(array):
 
     return quick_sort(less) + equal + quick_sort(greater)
 
+
 if __name__ == '__main__':
 
     print(quick_sort())

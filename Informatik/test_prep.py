@@ -1,95 +1,127 @@
-def find_max(lst):
-    max_value = 0
-    last_num = 0
-    for number in lst:
-        if number > max_value and number > last_num:
-            max_value = number
-        last_num = number
+def stringify(n):
+    if not isinstance(n, int) or not isinstance(n, float):
+        raise ValueError("please enter number")
+    if n % 2 == 0:
+        return "{} is even".format(n)
+    else:
+        return "{} is odd".format(n)
 
-    return max_value
+
+def compute_stats(lst):
+    if not isinstance(lst, ):
+        raise ValueError
+
+    second_highest, average, median = 0, 0, 0
+    for number in lst:
+        if isinstance(number, int):
+            average += number
+        else:
+            raise ValueError
+    average = average / len(lst)
+    second_highest = lst
+    second_highest.remove(max(second_highest))
+    second_highest = max(second_highest)
+
+    if len(lst) % 2 == 0:
+        for i in range(int(len(lst)/2-1)):
+            lst.remove((max(lst)))
+            lst.remove(min(lst))
+        median = (max(lst) + min(lst))/2
+    else:
+        for i in range(int((len(lst)-1)/2)):
+            lst.remove(max(lst))
+            lst.remove(min(lst))
+        median = lst[0]
+    return [second_highest, average, median]
+
+
+def count_letters(s):
+    if not isinstance(s, str):
+        raise ValueError
+
+    letters = {"upper": 0, "lower": 0}
+    for letter in s:
+        if letter.isupper():
+            letters["upper"] += 1
+        elif letter.islower():
+            letters["lower"] += 1
+        else:
+            pass
+    return letters
+
+
+class Shape(object):
+
+    def __init__(self):
+        pass
+
+    def description(self):
+        return "{} with area {}".format(type(self).__name__, self.area())
+
+    def area(self):
+        return 0
+
+
+class Rectangle(Shape):
+
+    def __init__(self, width, height):
+        super().__init__()
+        self.width = width
+        self.height = height
+
+    def description(self):
+        return super().description()
+
+    def area(self):
+        return self.width * self.height
+
+
+class Circle(Shape):
+
+    def __init__(self, radius):
+        super().__init__()
+        self.radius = radius
+
+    def description(self):
+        return super().description()
+
+    def area(self):
+        return 3 * self.radius**2
+
+
+class Square(Rectangle):
+
+    def __init__(self, width):
+        super().__init__(width, width)
+
+    def area(self):
+        return super().area()
+
+    def description(self):
+        return super().description()
 
 
 def e():
     for i in {'a': 1, 'b': 2, 'c': 3}:
-        print(i)
+        return i
 
 
-def sum(a, b):
-    if b is None:
-        return a + 1
-    else:
-        return a + b
+def insert_into_list(l, pos, *args):
+    for a in args:
+        l.insert(pos, a)
+    return l
 
 
-def is_odd(number):
-    if number % 2 == 0:
-        return False
-    else:
-        return True
+class g(object):
+    x = 1.2
 
-
-def find_last(line, ch):
-
-    length = len(line) - 1
-
-    if ch not in line:
-        return -1
-    if line is None:
-        return -1
-
-    if line[length] == ch:
-        return length
-    else:
-        line = line[:-1]
-        return find_last(line, ch)
-
-
-def build_words_dict(filename, min_occurences):
-    content = ""
-    output_dict = {"UNK": 0}
-    with open(filename, 'r') as file:
-        for line in file.readlines():
-            content = content + line
-        file.close()
-
-    list_of_words = content.split()
-
-    for word in list_of_words:
-        occurences = 0
-        for i in range(len(list_of_words)):
-            if list_of_words[i] == word:
-                occurences += 1
-        if occurences >= min_occurences:
-            output_dict[word] = occurences
-        else:
-            output_dict['UNK'] += 1
-
-    return output_dict
-
-
-def factorial_recursive(number):
-    if number == 1:
-        return 1
-    else:
-        return number * factorial_recursive(number - 1)
-
-
-def weighted_sum_recursive(numbers, depth=1):
-    result = 0
-
-    for number in numbers:
-        if isinstance(number, int):
-            result += depth * number
-        elif isinstance(number, list):
-            result += weighted_sum_recursive(number, depth+1)
-
-    return result
+    def __init__(self):
+        self.x = 3
 
 
 # ======================================================================================================================
 
 if __name__ == '__main__':
 
-    numbers = [1,2,3, [1, 2, [3]]]
-
-    print(weighted_sum_recursive(numbers))
+    print(g.x)
+    print(type(g.x))
