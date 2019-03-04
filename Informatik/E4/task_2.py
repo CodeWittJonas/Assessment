@@ -2,7 +2,7 @@
 def gcd(x, y):
     zwischenresultat = 0
     if x > y:
-        zwischenresultat = x % y;
+        zwischenresultat = x % y
         if zwischenresultat == 0:
             return y
         elif zwischenresultat == 1:

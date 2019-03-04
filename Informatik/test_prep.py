@@ -118,10 +118,17 @@ class g(object):
     def __init__(self):
         self.x = 3
 
+def fun(n):
+    if n <= 100:
+        return fun(fun(n+11))
+    else:
+        return n - 10
+
 
 # ======================================================================================================================
 
+
 if __name__ == '__main__':
 
-    print(g.x)
-    print(type(g.x))
+    print(fun(89))
+
