@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="InformatikII"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week1">
+				<Option output="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Week1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week1"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week1/fast">
+				<Option output="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Week1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week1/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="InformatikII">
+				<Option output="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/InformatikII.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 InformatikII"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="InformatikII/fast">
+				<Option output="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/InformatikII.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 InformatikII/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="heapsort">
+				<Option output="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/heapsort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 heapsort"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="heapsort/fast">
+				<Option output="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/heapsort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 heapsort/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DrawTriangle">
+				<Option output="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/DrawTriangle.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 DrawTriangle"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DrawTriangle/fast">
+				<Option output="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/DrawTriangle.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 DrawTriangle/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gcdlcm">
+				<Option output="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/gcdlcm.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 gcdlcm"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gcdlcm/fast">
+				<Option output="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/gcdlcm.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 gcdlcm/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BoxFractal">
+				<Option output="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/BoxFractal.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 BoxFractal"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BoxFractal/fast">
+				<Option output="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/BoxFractal.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 BoxFractal/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="whatdoesitdo">
+				<Option output="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/whatdoesitdo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 whatdoesitdo"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="whatdoesitdo/fast">
+				<Option output="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/whatdoesitdo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 whatdoesitdo/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hanoi">
+				<Option output="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/hanoi.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 hanoi"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hanoi/fast">
+				<Option output="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/hanoi.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 hanoi/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/Week1/hello.c">
+			<Option target="InformatikII"/>
+		</Unit>
+		<Unit filename="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/Week1/main.c">
+			<Option target="Week1"/>
+		</Unit>
+		<Unit filename="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/Week2/task1.c">
+			<Option target="gcdlcm"/>
+		</Unit>
+		<Unit filename="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/Week2/task2.c">
+			<Option target="DrawTriangle"/>
+		</Unit>
+		<Unit filename="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/Week2/task3b__skeleton.c">
+			<Option target="BoxFractal"/>
+		</Unit>
+		<Unit filename="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/Week3/task1.c">
+			<Option target="whatdoesitdo"/>
+		</Unit>
+		<Unit filename="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/Week4/task4.c">
+			<Option target="hanoi"/>
+		</Unit>
+		<Unit filename="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/Week5/task1.c">
+			<Option target="heapsort"/>
+		</Unit>
+		<Unit filename="C:/Users/Jonas Wittwer/Development/Studium/InformatikII/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

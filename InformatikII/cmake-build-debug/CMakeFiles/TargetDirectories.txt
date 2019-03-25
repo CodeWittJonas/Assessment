@@ -1,0 +1,10 @@
+C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/CMakeFiles/Week1.dir
+C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/CMakeFiles/InformatikII.dir
+C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/CMakeFiles/heapsort.dir
+C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/CMakeFiles/DrawTriangle.dir
+C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/CMakeFiles/gcdlcm.dir
+C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/CMakeFiles/BoxFractal.dir
+C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/CMakeFiles/whatdoesitdo.dir
+C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/CMakeFiles/hanoi.dir
+C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jonas Wittwer/Development/Studium/InformatikII/cmake-build-debug/CMakeFiles/rebuild_cache.dir

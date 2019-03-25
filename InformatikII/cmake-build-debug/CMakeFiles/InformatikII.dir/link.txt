@@ -1,0 +1,3 @@
+"C:\Users\Jonas Wittwer\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\183.5429.37\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\InformatikII.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\InformatikII.dir/objects.a @CMakeFiles\InformatikII.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\InformatikII.dir/objects.a -Wl,--no-whole-archive  -o InformatikII.exe -Wl,--out-implib,libInformatikII.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\InformatikII.dir\linklibs.rsp
