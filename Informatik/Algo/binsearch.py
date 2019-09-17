@@ -1,3 +1,6 @@
+import cProfile
+
+
 def binsearch(array, number):
     left = 1
     right = len(array) + 1
@@ -19,7 +22,8 @@ def binsearch(array, number):
 if __name__ == '__main__':
 
     array = []
-    for i in range(1000):
+    for i in range(10000000):
         array.append(i)
 
-    print(binsearch(array, 34))
+    cProfile.run(binsearch(array, 2932))
+

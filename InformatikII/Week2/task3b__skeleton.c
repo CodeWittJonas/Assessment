@@ -15,7 +15,7 @@ void drawsquare(double x, double y, double l) {
 
 void main(int argc, char *argv[]) {
 	if (SDL_Init(SDL_INIT_EVERYTHING) < 0) {
-		printf("SDL could not initialize");
+		printf("SDL could not initializeStack");
 	}
 
 	SDL_CreateWindowAndRenderer(300, 300, 0, &win, &ren);

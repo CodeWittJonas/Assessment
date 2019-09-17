@@ -11,6 +11,10 @@ int leftChild(int index) {
     return index * 2 + 1;
 }
 
+int parent(int index) {
+    return index / 2;
+}
+
 void swap(int A[], int firstElement, int secondElement) {
     int temp = A[firstElement];
     A[firstElement] = A[secondElement];
@@ -49,10 +53,6 @@ void heapify(int A[], int i, int n) {
 
 }
 
-int parent(int index) {
-    return index / 2;
-}
-
 // Task 1.1
 void buildMinHeap(int A[], int n) {
     int m = n / 2;
@@ -63,12 +63,21 @@ void buildMinHeap(int A[], int n) {
 
 // Task 1.2
 void printHeap(int A[], int n) {
+    int m = n / 2;
+    for (int i = 0; i < m; i++) {
 
+    }
 }
 
 // Task 1.3
 void heapSort(int A[], int n) {
-
+    int sorted = n;
+    buildMinHeap(A, n);
+    for (int i = n - 1; i > 0; i--) {
+        swap(A, i, 0);
+        sorted--;
+        heapify(A, 0, sorted);
+    }
 }
 
 // Task 1.4
@@ -80,7 +89,6 @@ void printArray(int A[], int n) {
     }
 }
 
-
 int main() {
 
     int array[7] = {9, 8, 5, 7, 4, 1, 3};
@@ -91,6 +99,10 @@ int main() {
 
     printArray(array, 7);
 
+    swap(array, 0, 6);
+    printArray(array, 7);
+    buildMinHeap(array, 5);
+    printArray(array, 7);
 
     return 0;
 }

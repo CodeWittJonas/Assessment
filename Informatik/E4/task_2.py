@@ -19,19 +19,18 @@ def gcd(x, y):
             return gcd(x, zwischenresultat)
 
 
-
-
-
-
-
 # ====================================================================================================================================
 
 
 if __name__ == '__main__':
-	# Here you can write code to test your function. Code you write here is solely for testing and will not be evaluated.
 
-    print(gcd(16, 12))
-    print(gcd(12, 16))
-    print(gcd(72, 36))
-    print(gcd(12, 68))
+    list_of_pairs = []
+
+    for i in range(2, 100):
+        for j in range(i+1, 103):
+            if gcd(i, j) < i:
+                    list_of_pairs.append((i, j))
+
+
+
 
