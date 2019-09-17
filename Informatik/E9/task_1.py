@@ -17,9 +17,6 @@ class CarWash(object):
         job = self.persistence[job_id]
         self.sms_sender.send(job.contact_details(), job.notification_message())
 
-    def shit(self):
-        print("shit")
-
 
 class Customer(object):
 
